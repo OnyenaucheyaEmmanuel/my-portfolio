@@ -1,0 +1,14 @@
+.banner{
+    background-image: url(/img/ban.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 90vh;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    
+}
+.border{
+    border-spacing: 100px;
+    border-radius: 15px;
+    border-right: 100px;
+}
